@@ -1,9 +1,9 @@
 Business Catalyst JavaScript Collection
 ==========
 
-This is a JavScript collection we at http://www.twoblokeswithapostie.com want to share with Business Catalyst community. Please feel free to contribute.
+This is a collection of JavaScript functions http://www.twoblokeswithapostie.com|Two Blokes want to share with Business Catalyst community. Please feel free to contribute.
 
-For now, the only file in this repo is functions.js. We'll introduce more as we go along.
+For now, the only file in this repo is functions.js. We'll introduce more code to it as we get time. Please feel free to contribute.
 
 You need to add jQuery to the head of your document before linking this file. Here's a Google hosted link:
 
