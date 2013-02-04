@@ -1,7 +1,7 @@
 Business Catalyst JavaScript Collection
 ==========
 
-This is a collection of JavaScript functions http://www.twoblokeswithapostie.com|Two Blokes want to share with Business Catalyst community. Please feel free to contribute.
+This is a collection of JavaScript functions us [Two Blokes](http://www.twoblokeswithapostie.com) want to share with Business Catalyst community. Please feel free to contribute.
 
 For now, the only file in this repo is functions.js. We'll introduce more code to it as we get time. Please feel free to contribute.
 
